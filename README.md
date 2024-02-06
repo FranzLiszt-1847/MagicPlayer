@@ -93,7 +93,7 @@
 
 ### 登录
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192216.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192203.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-190539.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192209.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192216.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192203.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-190539.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192209.png" style="zoom:25%;">
 
 
 
@@ -145,7 +145,7 @@
 
 ### Navigation
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194028.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194047.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-194028.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194047.png" style="zoom:25%;">
 
 
 
@@ -175,7 +175,7 @@
 
 ### 歌曲播放
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193258.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193302.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193340.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193258.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193302.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193340.png" style="zoom:25%;">
 
 
 
@@ -205,7 +205,7 @@
 
 ### 视频播放
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193520.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193522.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193537.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193602.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193552.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-220807.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193529.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193520.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193522.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193537.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193602.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193552.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-220807.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193529.png" style="zoom:25%;">
 
 
 
@@ -263,13 +263,13 @@
 
 
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193543.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193543.png" style="zoom:25%;">
 
 </br>
 
 ### 搜索
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192634.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-214446.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192744.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192747.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-214440.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192634.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-214446.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192744.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192747.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-214440.png" style="zoom:25%;">
 
 
 
@@ -321,7 +321,7 @@
 
 ### 搜索结果
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192640.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192643.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192646.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192727.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192729.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192724.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192640.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192643.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192646.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192727.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192729.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192724.png" style="zoom:25%;">
 
 
 
@@ -373,7 +373,7 @@
 
 ### 推荐
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193930.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193934.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193947.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194003.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193930.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193934.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193947.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194003.png" style="zoom:25%;">
 
 
 
@@ -423,7 +423,7 @@
 
 ### 榜单
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194032.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192328.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-194032.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192328.png" style="zoom:25%;">
 
 
 
@@ -451,7 +451,7 @@
 
 ### 歌手详情
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192539.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192614.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192617.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192539.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192614.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192617.png" style="zoom:25%;">
 
 
 
@@ -477,7 +477,7 @@
 
 
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194011.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194017.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-194022.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-194011.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194017.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194022.png" style="zoom:25%;">
 
 
 
@@ -505,7 +505,7 @@
 
 ### 歌曲下载
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193630.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193642.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193647.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193630.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193642.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193647.png" style="zoom:25%;">
 
 
 
@@ -533,7 +533,7 @@
 
 ### 评论
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192914.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192917.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-192922.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192914.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192917.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192922.png" style="zoom:25%;">
 
 
 
@@ -561,7 +561,7 @@
 
 ### 前台服务
 
-<Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193347.png" style="zoom:25%;"><Img src="/Volumes/franzliszt/AndroidProjectGit/MagicPlayer/MagicMusicPictures/Screenshot_20240205-193633.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193347.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193633.png" style="zoom:25%;">
 
 
 

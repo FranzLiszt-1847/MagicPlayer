@@ -1,0 +1,31 @@
+package com.franzliszt.magicmusic.bean.artist
+
+data class Artist(
+    val accountId:Long,
+    val albumSize: Int,
+    val alg:String,
+    val alias: List<String>,
+    val briefDesc: String,
+    val fansCount:Int,
+    val followed:Boolean,
+    val fansGroup:Any,
+    val info:String,
+    val id: Long,
+    val img1v1:Long,
+    val img1v1Id: Long,
+    val img1v1Id_str: String,
+    val img1v1Url: String,
+    val isSubed:Any,
+    val identifyTag:Any,
+    val musicSize: Int,
+    val mvSize:Int,
+    val name: String,
+    val picId: Long,
+    val picUrl: String,
+    val picId_str:String,
+    val publishTime:Long,
+    val showPrivateMsg:Boolean,
+    val topicPerson: Int,
+    val trans: String,
+    val transNames:Any
+)

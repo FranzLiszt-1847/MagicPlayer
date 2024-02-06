@@ -1,0 +1,33 @@
+package com.franzliszt.magicmusic.bean.recent
+
+data class MlogCreator(
+    val accountStatus: Int,
+    val authStatus: Int,
+    val authority: Int,
+    val avatarImgId: Long,
+    val avatarImgIdStr: String,
+    val avatarUrl: String,
+    val backgroundImgId: Long,
+    val backgroundImgIdStr: String,
+    val backgroundUrl: String,
+    val birthday: Long,
+    val city: Int,
+    val defaultAvatar: Boolean,
+    val description: String,
+    val detailDescription: String,
+    val djStatus: Int,
+    val expertTags: Any,
+    val experts: Any,
+    val extProperties: Any,
+    val followed: Boolean,
+    val gender: Int,
+    val mutual: Boolean,
+    val nickname: String,
+    val province: Int,
+    val remarkName: Any,
+    val signature: String,
+    val userId: Long,
+    val userType: Int,
+    val vipType: Int,
+    val xInfo: Any
+)
