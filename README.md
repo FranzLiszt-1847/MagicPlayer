@@ -6,13 +6,11 @@
 
 ## 效果预览-图片资源
 
-[https://photos.app.goo.gl/41n5WRSf471zfLWJ9]: 所有项目有关效果截图，均在此处，可以点击此链接进行浏览
+[https://photos.app.goo.gl/41n5WRSf471zfLWJ9](所有项目有关效果截图，均在此处，可以点击此链接进行浏览)
 
 ## 效果预览-视频资源
 
-[https://live.csdn.net/v/363120]: 项目部分功能演示，可以点击此链接进行浏览
-
-
+[https://live.csdn.net/v/363120](项目部分功能演示，可以点击此链接进行浏览)
 
 ## 功能预览
 
