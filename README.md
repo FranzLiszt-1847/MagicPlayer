@@ -93,7 +93,7 @@
 
 ### 登录
 
-<Img src="MagicMusicPictures/Screenshot_20240205-192216.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192203.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-190539.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192209.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192216.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192203.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-190539.png" width="200">
 
 
 
@@ -107,51 +107,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-192209.png" width="200">
 
 </br>
 
 ### Navigation
 
-<Img src="MagicMusicPictures/Screenshot_20240205-194028.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194047.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-194028.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-194047.png" width="200">
 
 
 
@@ -175,13 +137,7 @@
 
 ### 歌曲播放
 
-<Img src="MagicMusicPictures/Screenshot_20240205-193258.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193302.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193340.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-193258.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193302.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193340.png" width="200">
 
 
 
@@ -205,7 +161,7 @@
 
 ### 视频播放
 
-<Img src="MagicMusicPictures/Screenshot_20240205-193520.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193522.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193537.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193602.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193552.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-220807.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193529.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193520.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193522.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193537.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193602.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193552.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-220807.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193529.png" width="400">
 
 
 
@@ -241,47 +197,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<Img src="MagicMusicPictures/Screenshot_20240205-193543.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-193543.png" width="400">
 
 </br>
 
 ### 搜索
 
-<Img src="MagicMusicPictures/Screenshot_20240205-192634.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-214446.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192744.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192747.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-214440.png" style="zoom:25%;">
-
-
-
-
-
-
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-192634.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-214446.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192744.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192747.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-214440.png" width="200">
 
 
 
@@ -321,21 +243,7 @@
 
 ### 搜索结果
 
-<Img src="MagicMusicPictures/Screenshot_20240205-192640.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192643.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192646.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192727.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192729.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192724.png" style="zoom:25%;">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-192640.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192643.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192646.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192727.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192729.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192724.png" width="200">
 
 
 
@@ -373,35 +281,7 @@
 
 ### 推荐
 
-<Img src="MagicMusicPictures/Screenshot_20240205-193930.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193934.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193947.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194003.png" style="zoom:25%;">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-193930.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193934.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193947.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-194003.png" width="200">
 
 
 
@@ -423,13 +303,7 @@
 
 ### 榜单
 
-<Img src="MagicMusicPictures/Screenshot_20240205-194032.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192328.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-194032.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192328.png" width="200">
 
 
 
@@ -451,7 +325,7 @@
 
 ### 歌手详情
 
-<Img src="MagicMusicPictures/Screenshot_20240205-192539.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192614.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192617.png" style="zoom:25%;">
+<Img src="MagicMusicPictures/Screenshot_20240205-192539.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192614.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192617.png" width="200">
 
 
 
@@ -471,19 +345,7 @@
 
 
 
-
-
-
-
-
-
-<Img src="MagicMusicPictures/Screenshot_20240205-194011.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194017.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-194022.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-194011.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-194017.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-194022.png" width="200">
 
 
 
@@ -505,13 +367,7 @@
 
 ### 歌曲下载
 
-<Img src="MagicMusicPictures/Screenshot_20240205-193630.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193642.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193647.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-193630.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193642.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193647.png" width="200">
 
 
 
@@ -533,13 +389,7 @@
 
 ### 评论
 
-<Img src="MagicMusicPictures/Screenshot_20240205-192914.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192917.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-192922.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-192914.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192917.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-192922.png" width="200">
 
 
 
@@ -561,13 +411,7 @@
 
 ### 前台服务
 
-<Img src="MagicMusicPictures/Screenshot_20240205-193347.png" style="zoom:25%;"><Img src="MagicMusicPictures/Screenshot_20240205-193633.png" style="zoom:25%;">
-
-
-
-
-
-
+<Img src="MagicMusicPictures/Screenshot_20240205-193347.png" width="200"><Img src="MagicMusicPictures/Screenshot_20240205-193633.png" width="200">
 
 
 
