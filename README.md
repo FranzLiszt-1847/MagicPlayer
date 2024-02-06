@@ -6,7 +6,7 @@
 
 ## 效果预览-图片资源
 
-> [MagicMusicPictures/]: 
+> [点击此处预览图片资源]: MagicMusicPictures/
 
 ## 效果预览-视频资源
 
