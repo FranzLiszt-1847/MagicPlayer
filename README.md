@@ -6,7 +6,7 @@
 
 ## 效果预览-图片资源
 
-> https://photos.app.goo.gl/41n5WRSf471zfLWJ9
+> [MagicMusicPictures/]: 
 
 ## 效果预览-视频资源
 
