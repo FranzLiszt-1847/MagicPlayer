@@ -96,7 +96,7 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-        fun Context.hideSystemUi() {
+        private fun Context.hideSystemUi() {
             val activity = this.findActivity() ?: return
             val window = activity.window ?: return
             WindowCompat.setDecorFitsSystemWindows(window, false)
@@ -106,7 +106,7 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-        fun Context.showSystemUi() {
+        private fun Context.showSystemUi() {
             val activity = this.findActivity() ?: return
             val window = activity.window ?: return
             WindowCompat.setDecorFitsSystemWindows(window, true)
@@ -116,7 +116,7 @@ class MainActivity : ComponentActivity() {
             ).show(WindowInsetsCompat.Type.systemBars())
         }
 
-        fun Context.findActivity(): Activity? = when (this) {
+        private fun Context.findActivity(): Activity? = when (this) {
             is Activity -> this
             is ContextWrapper -> baseContext.findActivity()
             else -> null

@@ -24,7 +24,6 @@ import com.franzliszt.magicmusic.R
 class DownloadNotification(
     private val context:Context
 ) {
-    private val NOTIFICATION_ID = 2
     private val NOTIFICATION_CHANNEL_NAME = "Download Notification channel"
     private val NOTIFICATION_CHANNEL_ID = "Download Notification channel id"
 
@@ -33,16 +32,18 @@ class DownloadNotification(
 
     private val maxProgress = 100
 
-    init {
+
+    fun createNotification(id:Int,name: String,bitmap: Bitmap):Notification?{
         if (context != null && Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
             notificationManager = NotificationManagerCompat.from(context)
-            notificationBuilder = NotificationCompat.Builder(context,NOTIFICATION_CHANNEL_ID)
-            createNotificationChannel()
+            notificationBuilder = NotificationCompat.Builder(context,NOTIFICATION_CHANNEL_ID.plus(id))
+            createNotificationChannel(id)
+            return startNotification(id,name, bitmap)
         }
+        return null
     }
-
     @OptIn(UnstableApi::class)
-    fun startNotification(name: String,bitmap: Bitmap):Notification?{
+    private fun startNotification(id: Int,name: String,bitmap: Bitmap):Notification?{
         notificationBuilder
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
             .setSmallIcon(R.drawable.magicmusic_logo)
@@ -53,12 +54,12 @@ class DownloadNotification(
         if (ActivityCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
             return null
         }
-        notificationManager.notify(NOTIFICATION_ID,notificationBuilder.build())
+        notificationManager.notify(id,notificationBuilder.build())
         return notificationBuilder.build()
     }
 
 
-     fun setProgress(progress:Int){
+     fun setProgress(id:Int,progress:Int){
         if (this::notificationBuilder.isInitialized){
             if (progress in 0 until maxProgress){
                 notificationBuilder.setContentText("${progress}% downloaded")
@@ -72,16 +73,16 @@ class DownloadNotification(
             if (ActivityCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
                 return
             }
-            notificationManager.notify(NOTIFICATION_ID,notificationBuilder.build())
+            notificationManager.notify(id,notificationBuilder.build())
         }
     }
 
 
     @RequiresApi(Build.VERSION_CODES.O)
-    private fun createNotificationChannel(){
+    private fun createNotificationChannel(id:Int){
         val channel = NotificationChannel(
-            NOTIFICATION_CHANNEL_ID,
-            NOTIFICATION_CHANNEL_NAME,
+            NOTIFICATION_CHANNEL_ID.plus(id),
+            NOTIFICATION_CHANNEL_NAME.plus(id),
             NotificationManager.IMPORTANCE_DEFAULT,
         )
         notificationManager.createNotificationChannel(channel)

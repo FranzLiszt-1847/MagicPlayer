@@ -44,6 +44,10 @@ class DownloadService:Service(),DownloadTaskListener {
     private val FOREGROUND_NOTIFY_ID = 1
     private lateinit var listener:DownloadListener
 
+    private var notificationID = 100
+
+    private var map:Map<String,Int> = emptyMap()
+
     override fun onBind(p0: Intent?): IBinder = DownloadBinder()
 
     inner class DownloadBinder:Binder(){
@@ -70,19 +74,19 @@ class DownloadService:Service(),DownloadTaskListener {
                 .setFilePath(path)
                 .create()
             if (taskID > 0L){
+                notificationID++
+                map += url to notificationID
                 startForeground(name,cover)
             }
             /**
              * 如果明确服务一定是前台服务，在 Android 8.0 以后可以调用 startForegroundService，
-             * 它和 startService 的区别是它隐含了一个承诺
-             * ，必须在服务中尽快调用 startForeground，否则 10s 后服务将停止，且会触发 ANR。*/
+             * 它和 startService 的区别是它隐含了一个承诺，必须在服务中尽快调用 startForeground，否则 5s 后服务将停止，且会触发 ANR。*/
             if (!timerFlag){
                 timerFlag = true
                 object :CountDownTimer(4500L,4500L){
                     override fun onTick(p0: Long) {
 
                     }
-
 
                     override fun onFinish() {
                         if (!isForegroundSuc){
@@ -105,12 +109,12 @@ class DownloadService:Service(),DownloadTaskListener {
             getBitmap(
                 url = cover,
                 onSuccess = {
-                    startForeground(FOREGROUND_NOTIFY_ID, notification.startNotification(name,it))
+                    startForeground(FOREGROUND_NOTIFY_ID, notification.createNotification(notificationID,name,it))
                     isForegroundSuc = true
                 },
                 onError = {
                     val bitmap = BitmapFactory.decodeResource(APP.context.resources, R.drawable.magicmusic_logo)
-                    startForeground(FOREGROUND_NOTIFY_ID, notification.startNotification(name,bitmap))
+                    startForeground(FOREGROUND_NOTIFY_ID, notification.createNotification(notificationID,name,bitmap))
                     isForegroundSuc = true
                 }
             )
@@ -239,7 +243,8 @@ class DownloadService:Service(),DownloadTaskListener {
         if (task != null){
             task.convertFileSize
             val progress = (task.currentProgress * 100 / task.fileSize).toInt()
-            notification.setProgress(progress)
+            val id = searchNotificationID(task.entity.url)
+            notification.setProgress(id,progress)
             onDownloadListener(task,"")
         }
     }
@@ -287,5 +292,13 @@ class DownloadService:Service(),DownloadTaskListener {
         if (task != null){
             onDownloadListener(task,"")
         }
+    }
+
+    private fun searchNotificationID(url:String):Int{
+        if (map.isEmpty()) return 0
+        map.forEach {
+            if (it.key == url) return it.value
+        }
+        return 0
     }
 }

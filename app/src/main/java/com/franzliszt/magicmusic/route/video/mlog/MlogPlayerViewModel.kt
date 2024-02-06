@@ -242,7 +242,7 @@ class MlogPlayerViewModel @Inject constructor(
                     with(MainActivity.parentThis){
                         if (_uiState.value.isFullScreen){
                             //纵向
-                            this.setScreenOrientation(orientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT)
+                            setScreenOrientation(orientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT)
                         }else{
                             //横向
                             setScreenOrientation(orientation = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE)
